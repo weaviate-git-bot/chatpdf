@@ -15,4 +15,5 @@ azure-core==1.26.3
 redis==4.4.2
 pinecone-client==2.2.1
 azure-search-documents==11.4.0b9
+Werkzeug==2.2.2
 #./azure_search_documents-11.4.0b4-py3-none-any.whl
