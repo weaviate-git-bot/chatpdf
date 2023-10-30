@@ -40,7 +40,7 @@ const Layout = () => {
         <div className={styles.layout}>
             <header className={styles.header} role={"banner"}>
                 <div className={styles.headerContainer}>
-                    <Link to="https://dataaipdfchat.azurewebsites.net/" target={"_blank"} className={styles.headerTitleContainer}>
+                    <Link to="https://app-entaoai.azurewebsites.net/" target={"_blank"} className={styles.headerTitleContainer}>
                         <h3 className={styles.headerTitle}>Chat and Ask</h3>
                     </Link>
                     <nav>
